@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Aithal
-- 👀 I’m interested in Data Scinece/Machine Learning/Data Analytics
+- 👀 I’m interested in Data Science/Machine Learning/Data Analytics
 - Skills: 
 - Python
 - SQL
