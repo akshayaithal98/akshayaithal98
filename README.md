@@ -1,3 +1,9 @@
 - 👋 Hi, I’m Akshay Aithal
 - 👀 I’m interested in Data Scinece/Machine Learning/Data Analytics
--
+- Skills: 
+- Python
+- SQL
+- Machine Learning
+- Tableau
+- Data Analytics
+- Statistics
