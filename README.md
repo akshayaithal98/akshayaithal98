@@ -8,5 +8,5 @@
 - Data Analytics
 - Statistics
 - Natural language processing
-- Time Seires analysis
+- Time Series analysis
 - AWS
