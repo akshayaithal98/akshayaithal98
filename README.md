@@ -7,3 +7,6 @@
 - Tableau
 - Data Analytics
 - Statistics
+- Natural language processing
+- Time Seires analysis
+- AWS
